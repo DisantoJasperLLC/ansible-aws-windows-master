@@ -14,7 +14,7 @@ setup stronger TLS encryption.
 ansible-playbook -i hosts aws-windows.yml --ask-become-pass --ask-vault-pass
 ```
 
-See also
+See also:
 --------
 
 Chris Church published similar functionality in the
